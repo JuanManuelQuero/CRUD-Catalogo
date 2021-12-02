@@ -1,0 +1,20 @@
+{
+    "name": "juanm/catalogo",
+    "description": "Practica CRUD",
+    "type": "project",
+    "license": "GNU",
+    "autoload": {
+        "psr-4": {
+            "Catalogo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "juan",
+            "email": "user@correo.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.16"
+    }
+}

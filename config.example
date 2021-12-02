@@ -1,0 +1,6 @@
+;archivo de configuracion
+[opciones]
+usurario = tu usuario
+pass = tu pass
+base = tu base de datos
+host = tu host
